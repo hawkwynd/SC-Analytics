@@ -1,0 +1,17 @@
+{
+    "shoutcast" : {
+        "url": "http://yourserver.org:8000",
+        "pass" : "yourpassword_admin",
+        "mode" : "viewjson",
+        "sid" : 1,
+        "path" : "admin.cgi"
+    },
+    "mysql" : {
+        "host": "localhost",
+        "user": "MysqlUsername",
+        "password": "MysqlPassword",
+        "database": "MysqlDatabaseName"
+      }
+    
+
+}

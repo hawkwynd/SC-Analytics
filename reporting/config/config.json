@@ -1,0 +1,9 @@
+{
+    "shoutcast" : {
+        "url": "http://localhost:8000",
+        "pass" : "scootre1",
+        "mode" : "viewjson",
+        "sid" : 1,
+        "path" : "admin.cgi"
+    }
+}

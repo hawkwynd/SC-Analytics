@@ -1,0 +1,23 @@
+{
+    "shoutcast" : {
+        "url": "http://hawkwynd.com:8000",
+        "pass" : "scootre1",
+        "mode" : "viewjson",
+        "sid" : 1,
+        "path" : "admin.cgi"
+    },
+    "mongodb" : {
+        "host" : "localhost",
+        "port" : "27017",
+        "db" :  "hawkwyndRadio",
+        "collection" : "listeners"
+    },
+    "mysql" : {
+    "host": "localhost",
+    "user": "shoutcast",
+    "password": "hawkwynd2020",
+    "database": "hawkwyndradio"
+  }
+    
+
+}

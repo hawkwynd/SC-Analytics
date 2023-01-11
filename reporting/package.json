@@ -1,0 +1,27 @@
+{
+  "name": "HR-Reporting",
+  "version": "1.0.0",
+  "description": "Shoutcast Activity Reporting",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Scott Fleming",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "express": "^4.17.1",
+    "get-json": "^1.0.1",
+<<<<<<< HEAD
+    "lodash": "^4.17.15",
+=======
+    "lodash": "^4.17.19",
+>>>>>>> 3aa6e789465165b2bb11288f4d055bb860f02921
+    "lodash.merge": "^4.6.2",
+    "minimatch": "^3.0.4",
+    "moment": "^2.26.0",
+    "mongodb": "^3.3.3",
+    "nodemon": "^1.19.4",
+    "pretty-ms": "^5.0.0"
+  }
+}
